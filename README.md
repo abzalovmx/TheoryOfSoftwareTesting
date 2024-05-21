@@ -1,1 +1,15 @@
-# TheoryOfSoftwareTesting
+Теория тестирования
+# В рамках данного раздела мной было изучено следующее:
+- QA, QC, Testing
+- Верификация и валидация
+- Принципы тестирования
+- SDLC и STLC
+- Модели разработки
+- Уровни тестирования
+- Типы тестирования
+- Scrum
+- Kanban и XP
+- Анализ требований
+# В рамках данного раздела было выполнено задание на анализ требования:
+- Ссылка на выполненое задание https://docs.google.com/spreadsheets/d/1evSOqEfw90W-e6y_mzVQwHNj3uvbJflWMX66_8VC-vQ/edit?usp=sharing
+Тестовый сайт по которому написано требование https://demo.guru99.com/telecom/index.html
