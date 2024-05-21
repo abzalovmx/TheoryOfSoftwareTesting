@@ -12,4 +12,4 @@
 - Анализ требований
 # В рамках данного раздела было выполнено задание на анализ требования:
 - Ссылка на выполненое задание https://docs.google.com/spreadsheets/d/1evSOqEfw90W-e6y_mzVQwHNj3uvbJflWMX66_8VC-vQ/edit?usp=sharing
-Тестовый сайт по которому написано требование https://demo.guru99.com/telecom/index.html
+- Тестовый сайт по которому написано требование https://demo.guru99.com/telecom/index.html
